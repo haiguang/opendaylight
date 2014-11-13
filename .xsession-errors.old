@@ -1,0 +1,140 @@
+
+(gnome-settings-daemon:10243): color-plugin-WARNING **: failed to get edid: unable to get EDID for output
+
+(gnome-settings-daemon:10243): color-plugin-WARNING **: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Backend     : gconf
+Integration : true
+Profile     : unity
+Adding plugins
+Initializing core options...done
+Initializing composite options...done
+** Message: applet now removed from the notification area
+** Message: using fallback from indicator to GtkStatusIcon
+/usr/lib/vmware-tools/lib/libstdc++.so.6/libstdc++.so.6: version `GLIBCXX_3.4.9' not found (required by /usr/lib/x86_64-linux-gnu/libproxy.so.1)
+Failed to load module: /usr/lib/x86_64-linux-gnu/gio/modules/libgiolibproxy.so
+Initializing opengl options...done
+Initializing decor options...done
+Initializing vpswitch options...done
+Initializing snap options...done
+Initializing mousepoll options...done
+Initializing resize options...done
+Initializing place options...done
+Initializing move options...done
+Initializing wall options...done
+Initializing grid options...done
+I/O warning : failed to load external entity "/home/wang/.compiz/session/109ce8dbb7b0d8467141585576819009000000101940035"
+Initializing session options...done
+Initializing gnomecompat options...done
+Initializing animation options...done
+Initializing fade options...done
+Initializing unitymtgrabhandles options...done
+Initializing workarounds options...done
+Initializing scale options...done
+compiz (expo) - Warn: failed to bind image to texture
+Initializing expo options...done
+Initializing ezoom options...done
+
+(compiz:10263): GConf-CRITICAL **: gconf_client_add_dir: assertion `gconf_valid_key (dirname, NULL)' failed
+Initializing unityshell options...done
+Initializing staticswitcher options...done
+Setting Update "run_command_terminal_key"
+Setting Update "fullscreen_visual_bell"
+Setting Update "autoraise"
+Setting Update "autoraise_delay"
+Setting Update "toggle_window_shaded_key"
+Setting Update "fullscreen_visual_bell"
+Setting Update "main_menu_key"
+Setting Update "run_command_terminal_key"
+Setting Update "run_key"
+compiz (core) - Warn: failed to receive ConfigureNotify event on 0x1400004
+
+** Message: moving back from GtkStatusIcon to indicator
+Nautilus-Share-Message: Called "net usershare info" but it failed: 'net usershare' returned error 255: net usershare: cannot open usershare directory /var/lib/samba/usershares. Error No such file or directory
+Please ask your system administrator to enable user sharing.
+
+
+** (zeitgeist-datahub:10559): WARNING **: zeitgeist-datahub.vala:227: Unable to get name "org.gnome.zeitgeist.datahub" on the bus!
+
+(gnome-settings-daemon:10243): GLib-CRITICAL **: g_variant_get_int32: assertion `g_variant_is_of_type (value, G_VARIANT_TYPE_INT32)' failed
+
+(check-new-release-gtk:10624): GLib-GIO-CRITICAL **: g_settings_set_value: key 'release-check-time' in 'com.ubuntu.update-notifier' expects type 'u', but a GVariant of type 'i' was given
+
+(firefox:10926): Gtk-CRITICAL **: IA__gtk_clipboard_set_with_data: assertion `targets != NULL' failed
+
+(gnome-settings-daemon:10243): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:10243): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:10243): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:10243): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+javaldx: Could not find a Java Runtime Environment! 
+Please ensure that a JVM and the package libreoffice-java-common
+is installed.
+If it is already installed then try removing ~/.libreoffice/3/user/config/javasettings_Linux_*.xml
+Warning: failed to read path from javaldx
+
+(gnome-control-center:12760): background-cc-panel-WARNING **: Could not load /usr/share/themes/Adwaita/index.theme: No such file or directory
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+
+(gnome-settings-daemon:10243): Gdk-WARNING **: gnome-settings-daemon: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+
+(gnome-fallback-mount-helper:10280): Gdk-WARNING **: gnome-fallback-mount-helper: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+
+(polkit-gnome-authentication-agent-1:10281): Gdk-WARNING **: polkit-gnome-authentication-agent-1: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+
+(bluetooth-applet:10283): Gdk-WARNING **: bluetooth-applet: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+
+(nautilus:10279): Gdk-WARNING **: nautilus: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+gtk-window-decorator: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.0.
+
+(nm-applet:10290): Gdk-WARNING **: nm-applet: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+
+(gdu-notification-daemon:10513): Gdk-WARNING **: gdu-notification-daemon: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+
+(gnome-terminal:17551): Gdk-WARNING **: gnome-terminal: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.0.
+
+
+(update-notifier:10619): Gdk-WARNING **: update-notifier: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+
+(telepathy-indicator:10517): Gdk-WARNING **: telepathy-indicator: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+
+(gnome-screensaver:10560): Gdk-WARNING **: gnome-screensaver: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+
+(update-manager:10665): Gdk-WARNING **: update-manager: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+
+(deja-dup-monitor:11239): GVFS-RemoteVolumeMonitor-WARNING **: Owner :1.29 of volume monitor org.gtk.Private.GduVolumeMonitor disconnected from the bus; removing drives/volumes/mounts
+
+(deja-dup-monitor:11239): GVFS-RemoteVolumeMonitor-WARNING **: Owner :1.31 of volume monitor org.gtk.Private.GPhoto2VolumeMonitor disconnected from the bus; removing drives/volumes/mounts
+
+(deja-dup-monitor:11239): GVFS-RemoteVolumeMonitor-WARNING **: Owner :1.33 of volume monitor org.gtk.Private.AfcVolumeMonitor disconnected from the bus; removing drives/volumes/mounts
